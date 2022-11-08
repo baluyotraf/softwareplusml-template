@@ -1,6 +1,28 @@
-site_name: My Docs
+site_name: Raffaello Baluyot
+site_url: https://baluyotraf.ml
+repo_url: https://github.com/baluyotraf/website
+repo_name: baluyotraf/website
+edit_uri: ""
+
 nav:
   - Home: index.md
-  - About: about.md
+  - Blogs:
+      - Sample Blog: blogs/sample.md
+  - Documentations:
+      - Sample Documentation: documentations/sample.md
+
 theme:
   name: material
+  language: en
+  palette: 
+    primary: blue grey
+    accent: light blue
+  icon:
+    logo: fontawesome/solid/robot
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+  
