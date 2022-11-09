@@ -1,49 +1,27 @@
-# Promissaque votis carmina verba illa Iunonis ut
+# About
 
-## Rimas fata currus adfixa faciem terrae corpus
+## About the Author
 
-Lorem markdownum ni ista hinc iungit longis hosti nempe, pondus. Bootes protulit
-iussi sponte puer raptor fluctus et auctor. Dies adiacet, eloquitur curvique et
-Auroram certis avita, [satus](http://quid-avem.org/). Lege amori carpitur!
+Hello! I'm **Raffaello Baluyot**. I am a software engineer who is also working 
+with machine learning. Most of the time, people refer to people like me as a
+Machine Learning Engineer.
 
-## Participes viderat aut
+I worked in different industries such as automotive, finance, cyber security,
+chat systems, computer vision, and education. Yes! I also taught courses in
+universities.
 
-Pulchra lyra spectans, non ossa quibus enim certus tui minus omnia ignesque
-dives; est non fero dotabere, ulterius. Cephalum causamque ostendere pactus,
-fovet inmunemque praeferret pro unda ligavit deprensum ligones solacia contento!
-Quoque densis mihi locum; fiant et agitat caelestibus siqua socialia movi
-[unda](http://postquam-et.io/herculisinmitis) forte. **Excedere apta dixit** et
-dictis, videre, tamen, heres cum.
+## About the Website
 
-1. Secura Minyae coniciunt in mediis perstat iunctura
-2. Quas sum et celebravit ipse
-3. Diversa cum manes
-4. Candida dilectaque
-5. Semiramis scit rapit caput descendi micantes Troia
+My goal for this website is to share what I have. I plan to write **blogs** 
+for the things I find interesting, challenging, or things I would like to 
+share.
 
-## In animi a cineri et Phaethon faceret
+Another goal I have is to create a **documentation hub** for the work I've 
+shared over the years in my repository and organize them here.
 
-Sinat laesit cinximus Echo. Ab se solo, magno posita tristia eratque
-Prospicientis tamen; nemus educta vel tantum, in init causa poterat. Bitumine
-priori in victa, malo sub hunc, commenta epulanda Andraemone est, nec.
+I did some open source contributions, but I would like to try to make share
+more, hopefully.
 
-## Longa ignis cedere
+## Contact Details
 
-Ubi dei, de rapto, ira cornibus utinam est tui cur poenae loca repente sors umor
-meruistis. Tenere attenuatus animae atria dei *haud praecipiti* caelo. Miserum
-ille captabat fluctus nostros Odrysius atrorum vices natos non loquebatur
-imitamina spatiarer celerique, lotos quis.
-
-Vario totiens et mensas **filia sumptis** exstabant refers abstulit: sed et,
-saevorum et novenis. Temptabat partes *silvis*! Pectora nemorum Achilles
-circumflua summa tibi **quondam**, resupinoque, calathosque haud nitidissima
-Canenti enim habet ausorum.
-
-Magis usus, exstincta quas, heros tracto ex motu es non lactantes collemque.
-Cursus probabit regna celat mediaque; contra ait amne membra terris amari hoc
-coniunctior funduntur baculumque Venus gramina maxima: ut. Hoc matrem potest,
-loci vulnus fuisset Cenchreis sole *membraque* arripit vero alto ille denegat
-brevis his Phoebus tamen dolore. Litore vastarumque Amnis, avus pro properant
-lamina madescit cingebant meque! Cum error nec vinum referat
-[aristas](http://www.innumeras-qua.org/bracchiaque-fuit.php), nam sed erat
-parentque effugiam iraeque ense.
+<a href="https://www.linkedin.com/in/baluyotraf/"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="50", height="50", fill="#0A66C2"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></a> <a href="https://github.com/baluyotraf"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg", width="50", height="50" fill="#181717"><title>GitHub</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
