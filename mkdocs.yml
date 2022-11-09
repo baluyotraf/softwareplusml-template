@@ -1,15 +1,15 @@
-site_name: Raffaello Baluyot
-site_url: https://baluyotraf.ml
-repo_url: https://github.com/baluyotraf/website
-repo_name: baluyotraf/website
+site_name: Software + ML
+site_url: https://softwareplus.ml
+repo_url: https://github.com/baluyotraf/softwareplusml
+repo_name: baluyotraf/softwareplusml
 edit_uri: ""
 
 nav:
   - Home: index.md
   - Blogs:
       - Sample Blog: blogs/sample.md
-  - Documentations:
-      - Sample Documentation: documentations/sample.md
+  - Projects: projects.md
+  - About: about.md
 
 theme:
   name: material
