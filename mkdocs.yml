@@ -25,4 +25,14 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+
+extra_css:
+  - stylesheets/extra.css
   
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/in/baluyotraf/
+      name: baluyotraf
+
+copyright: Copyright &copy; 2022 Raffaello Baluyot
